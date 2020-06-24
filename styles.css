@@ -1,0 +1,63 @@
+body{
+    background: black;
+}
+
+
+
+.contenedor{
+    width: 500px;
+    padding: 1% 0px;;
+    background: white;
+    margin: 0 auto;
+}
+
+.header{
+    height: 50px;
+}
+
+.iconos{
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.usuario{
+    float: left;
+}
+
+.menu{
+    width: 5%;
+    float: right;
+    margin-right: 1%
+}
+
+.logo{
+    width: 90%;
+    float: left;
+}
+.logo p {
+    margin: 0px;
+}
+
+.logo .iconos{
+    float: left;
+    margin: 0px 2%;
+}
+
+.imagen{
+    max-width: 500px;
+   margin-bottom: 15px;
+}
+
+.botones{
+        margin: 2%;
+}
+
+.botones .iconos:nth-child(4){
+    float: right;
+    
+}
+
+.texto{
+    margin: 2%;
+
+}
